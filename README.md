@@ -3,7 +3,6 @@ Simple Send Email Library Class for WordPress
 
 Just do like these :
 
-/* Init email class */
     $sendmail = new Sendmail();
     $sendmail->_from_name = 'Agil';
     $sendmail->_from_address = 'helloworld@mail.com';
